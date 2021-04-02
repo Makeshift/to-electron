@@ -1,0 +1,5 @@
+{
+    "markets": ["LTC-XLA", "LTC-TRTL", "LTC-ETNXP", "BTC-XMR", "BTC-LTC", "BTC-ETH", "BTC-ARRR", "BTC-GRIN", "BTC-DOGE", "USDT-BTC"],
+    "defaultMainWindowHeight": 800,
+    "defaultMainWindowWidth": 1616
+}
